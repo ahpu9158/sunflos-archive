@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'sunflos archive',
   tagline: 'All my writings on sunflos',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/fogicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -22,8 +22,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'ahpu9158', // Usually your GitHub org/user name.
+  projectName: 'sunflos-archive', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -67,19 +67,31 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Archive',
+      title: 'sunflos',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/foggy_icon.svg',
       },
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'generalSidebar',
           position: 'left',
           label: 'Archive',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          type: 'docSidebar',
+          sidebarId: 'magicSidebar',
+          position: 'left',
+          label: 'Magic101',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'characterSidebar',
+          position: 'left',
+          label: 'Characters',
+        },
+        //{to: '/blog', label: 'Blog', position: 'left'},
       ],
     },
     footer: {

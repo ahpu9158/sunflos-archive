@@ -26,7 +26,7 @@ export default function Home(): ReactNode {
             <div className={styles.buttons}>
               <Link
                 className="button button--secondary button--lg"
-                to="/docs/">
+                to="/docs/intro">
                 Explore the Archive
               </Link>
             </div>
