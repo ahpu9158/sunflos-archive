@@ -1,0 +1,9 @@
+# Three levels of spell
+
+Suppose magic is one drop of water on the sandpaper; casting is when you use charcoal to drag the water along the line in shape until the trail of water is too thin to continue. The spell is the shape that you draw. There are 3 fundamental levels of spell.
+
+First is primary spelling. This spell is the simplest form of magic. A stray in the wild. Its effect holds as long as your magic lasts. Such a system is memoryless, but it can be best suited for some use cases, for example, combat.
+
+A secondary spell is where you expand its lifetime. To simplify it, let's picture your spell as a coral spine to circle round and round. The idea is to put spare magic on the area above it. But since one drop of magic can expand in a limited area, you have to add other drops on the circumference. The line you draw in the outer ring is another field in magic study. In this place, it is better to explain it as keeping magic running around the edge waiting to be in the inner ring; when the inner ring's magic runs out, the outer ring magic will replace it. It, of course, will run dry if all the magic runs out, but it's easier to fill the outer rings than to spell the ring again altogether. Secondary spells cover most spells and are regarded as the baseline of magic. However, there is a concerning flaw in such a spell. Like water, sometimes magic can run outward too. When the magic strays to the environment, its effects can be harmful to both living things and environments.
+
+The trinary spell is another outer ring. It is recognized as the beyond study, where it can be anything outside the foundation of the spell and the spare magic. One of the important ternary spells is the bridge between two spells. The problem in the secondary spell can be solved in the trinary spell by drawing the mirror of the middle ring to cancel out the stray.

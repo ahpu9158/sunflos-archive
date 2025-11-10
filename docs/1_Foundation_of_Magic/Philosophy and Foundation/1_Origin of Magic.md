@@ -1,3 +1,5 @@
+# Origin of magic
+
 > The access to magic is no harder than being born to the world; people are exposed to breathing in the same way as mages casting the magic, but to acquire its truth is a perplexing and fatiguing discipline. It is the balance to the nature. One cannot use magic without fully acknowledge it. For the fools with the powerful abilities only leads a disaster.
 
 *The only thing* we can be sure about magic is its origin. Magic comes from nature. In that sense, Mages are the person who can orchestrate it. The belief of magic hosting by mage is a vital misconception. Magic can exist in the nature without any human actions. The extreme case was the Stockstole, the mountain and its surrounding area locates as the border between Perlock and Serol. Stockstole has environment that effect by magic, as it is well known that some areas are prohibited from exploration since the density of magic there is uncertain. Those magic is not come from human, but the stray wave of magic in the environment. Though, magical controllability of animals has not been found once, it is reasonable to believe think of it as evolution.
