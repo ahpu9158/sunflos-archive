@@ -11,8 +11,7 @@ $$
 
 
 
-Consequently, There are two approach of magic study.
-Since magic cannot hold the same effects for each mage, there are two approaches for studying magic, the generalization and personalization.
+Consequently, There are two approach of magic study, the generalization and personalization.
 
 **The generalization** of magic is the discipline that prioritize access. To put it in understandable words, it is to find the way to write magic rings that can be used by most mages as much as possible.
 Formally, it seeks:
